@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+### My Skil
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,vue,vite,jest,firebase,azure,git,github,githubactions,md&perline=10)](https://skillicons.dev)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OKAUEND&count_private=true&show_icons=true&theme=transparent)
 
 <!--
